@@ -1,1 +1,1 @@
-32
+[![Build status](https://ci.appveyor.com/api/projects/status/un5ntcmp23m0mjyd?svg=true)](https://ci.appveyor.com/project/UdavUPS/react-components-store-function)
