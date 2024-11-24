@@ -1,6 +1,6 @@
 /* import logo from './logo.svg';*/
 /* import '../css/style.css';  */
-import { ShopItemFunc } from './components.jsx';
+import { ShopItemFunc } from './ShopItemFunc.jsx';
 import { item } from './object.js';
 
 
